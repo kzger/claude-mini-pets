@@ -2,7 +2,7 @@
 
 ## 原生安裝流程
 
-推薦從 [Releases](https://github.com/kzger/claude-mini-pets/releases/latest) 下載 `install.html`，以瀏覽器開啟後選擇兩個安裝按鈕。頁面會利用 [官方的 `codex://pets/install` 格式](https://learn.chatgpt.com/docs/app/commands)，將版本名稱、公開 PNG 網址與精靈圖版本傳給已安裝的桌面 App。
+推薦開啟 [線上安裝頁](https://kzger.github.io/claude-mini-pets/)，選擇兩個安裝按鈕。也能從 [Releases](https://github.com/kzger/claude-mini-pets/releases/latest) 下載 `install.html`，以瀏覽器開啟。頁面會利用 [官方的 `codex://pets/install` 格式](https://learn.chatgpt.com/docs/app/commands)，將版本名稱、公開 PNG 網址與精靈圖版本傳給已安裝的桌面 App。
 
 如果瀏覽器詢問是否開啟 Codex／ChatGPT，確認目標是你已安裝的桌面 App。這個流程仍需在 App 內完成安裝，不會靜默建立寵物。
 

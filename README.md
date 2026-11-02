@@ -15,9 +15,11 @@
 
 ### 方法一：開啟原生安裝視窗（推薦）
 
-1. [下載安裝頁 install.html](https://github.com/kzger/claude-mini-pets/releases/download/v1.0.0/install.html)。
-2. 用瀏覽器開啟下載的檔案。
-3. 分別按「安裝一般版」與「安裝流暢版」，在桌面 App 開啟的安裝視窗完成操作。
+1. 在另一台 Windows 開啟 [線上安裝頁](https://kzger.github.io/claude-mini-pets/)。
+2. 分別按「安裝一般版」與「安裝流暢版」。
+3. 在桌面 App 開啟的安裝視窗完成操作。
+
+也可 [下載安裝頁 install.html](https://github.com/kzger/claude-mini-pets/releases/download/v1.0.0/install.html)，用瀏覽器開啟後使用相同按鈕。
 
 需要已安裝且支援 `codex://pets/install` 的桌面 App，以及網路連線。此連結使用 [官方支援的寵物安裝格式](https://learn.chatgpt.com/docs/app/commands)。
 
