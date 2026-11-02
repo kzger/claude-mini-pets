@@ -1,0 +1,43 @@
+{
+  "release": "v1.0.0",
+  "sprite_version": 1,
+  "cell_size": [
+    192,
+    208
+  ],
+  "sheet_size": [
+    1536,
+    1872
+  ],
+  "frames_per_row": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6
+  ],
+  "pets": [
+    {
+      "variant": "standard",
+      "folder": "claude-mini-standard",
+      "name": "Claude 娘",
+      "sprite": "pets/claude-mini-standard/spritesheet.png",
+      "sha256": "7c443247ea6db87fbd70e5bca0c68a5f7b485e02fb046d775a157d7306e6b659",
+      "install_image_url": "https://raw.githubusercontent.com/kzger/claude-mini-pets/v1.0.0/pets/claude-mini-standard/spritesheet.png",
+      "install_link": "codex://pets/install?name=Claude%20%E5%A8%98&imageUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fkzger%2Fclaude-mini-pets%2Fv1.0.0%2Fpets%2Fclaude-mini-standard%2Fspritesheet.png&spriteVersionNumber=1"
+    },
+    {
+      "variant": "smooth",
+      "folder": "claude-mini-smooth",
+      "name": "Claude 娘・流暢版",
+      "sprite": "pets/claude-mini-smooth/spritesheet.png",
+      "sha256": "e5e7d04b38003d912930266c305f179ef3ef2b19224aac1591caf59db0846df3",
+      "install_image_url": "https://raw.githubusercontent.com/kzger/claude-mini-pets/v1.0.0/pets/claude-mini-smooth/spritesheet.png",
+      "install_link": "codex://pets/install?name=Claude%20%E5%A8%98%E3%83%BB%E6%B5%81%E6%9A%A2%E7%89%88&imageUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fkzger%2Fclaude-mini-pets%2Fv1.0.0%2Fpets%2Fclaude-mini-smooth%2Fspritesheet.png&spriteVersionNumber=1"
+    }
+  ]
+}
